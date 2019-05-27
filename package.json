@@ -1,0 +1,30 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limengfx/myapp.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "limengfx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limengfx/myapp/issues"
+  },
+  "homepage": "https://github.com/limengfx/myapp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.4",
+    "mysql": "^2.17.1",
+    "req-flash": "0.0.3"
+  }
+}
